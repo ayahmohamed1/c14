@@ -146,7 +146,7 @@ export default function App() {
         </h1>
         
         <p className="z-10 font-serif text-sm uppercase tracking-[0.2em] text-[#f3e3ce] drop-shadow-sm">
-          Happy birthday, love
+          Happy five months , My Love 
         </p>
 
         <p className="z-10 mt-5 mb-2 font-sans text-[13px] text-white/90 tracking-wide sm:text-sm"></p>
